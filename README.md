@@ -5,24 +5,26 @@ Link : https://sauravgem92.github.io/Job-Search-Platform/
 # About the Project
 This is a sample project created for the purpose of learning and demonstration of Microsoft Azure skills during the Future Ready Talent Program. And so, this project is not intended for commercial deployment.
 
-This is a simple E-Restaurant website. It is a web application that allows you to book your Desired food online.
+This is a simple Job-Search-Platform static website. It is a web application that allows you to search and apply for your dream jobs and Internships.
+It also provides differnt courses and career Coaching to enhance your skills.
 
-This project was made using HTML, CSS, JavaScript and PHP and deployed on Azure App Service.
+This project was made using HTML, CSS and Bootstrap and deployed on Azure App Service.
 
 # Functions
-Home page- this page gives details about the restaurant.
+Home section - Here you can search for differnt post availabe for jobs and                  Internships.
 
-The Menu page has list of food options available for the user to scroll through, this page allows the user to add their desired food to their cart.
+By using Navigator bar you can Navigate to different sections of our website. 
 
-The gallery page has pictures of the restaurants dishes which is uploaded on this website by the restaurant owner or workers.
+All Jobs button is to see diffent jobs available for diffent sectors.
 
-The Login button leads the user to sign in and sign up page. this page was made in intent to allow the user to login and order food online or allow a new user to create a new account.
+Ask Us button is to ask any type of query with our 24/7 chat service
 
-Mycart page allows the user to see all the food options that has been chosen by the user to add to their cart. this page has options provided for the user to increase or decrease the quantity of the food and it shows the total amount of payment that is to be done.
+In Job description section you can learn about the particular job and about the company whose post it is.
 
-# Drawbacks/ loopholes
-the Contact page is disabled.
+In Invest in Yourself section you can take diffent type of courses and training to inhanch your skill.
 
-This website does not have a database therefore the login and signup page does not work when trying to login or sign up.
+And in footer you can read about us, our services and connect with us with our Social media.
 
-This website does not have a payment gateway.
+# Drawbacks
+Currently it is a static website so different functionality will not work.
+
