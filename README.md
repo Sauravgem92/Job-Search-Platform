@@ -11,7 +11,7 @@ It also provides differnt courses and career Coaching to enhance your skills.
 This project was made using HTML, CSS and Bootstrap and deployed on Azure App Service.
 
 # Functions
-Home section - Here you can search for differnt post availabe for jobs and                  Internships.
+Home section - Here you can search for differnt post availabe for jobs and Internships.
 
 By using Navigator bar you can Navigate to different sections of our website. 
 
