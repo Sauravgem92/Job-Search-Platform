@@ -13,7 +13,7 @@ This project was made using HTML, CSS and Bootstrap and deployed on Azure using 
 
 # Functions
 ![Home Section](./img/Screenshot (50).png)
-![Home Section](https://github.com/Sauravgem92/Job-Search-Platform/blob/main/img/Screenshot (50).png?raw=true)
+![Home Section](https://github.com/Sauravgem92/Job-Search-Platform/blob/main/img/Screenshot (50).png)
 Home section - Here you can search for differnt post availabe for jobs and Internships.
 
 By using Navigator bar you can Navigate to different sections of our website. 
