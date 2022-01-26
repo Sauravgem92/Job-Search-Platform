@@ -32,7 +32,7 @@ This project was made using HTML, CSS and Bootstrap using Visual Studio Code and
 <h3>Programs available</h3>
 <img src="./img/Screenshot (53).png">
 
--> In Invest in Yourself section you can take different type of Courses, Trainings, Work review, Strategy and career coachings to inhanch your skill.
+-> In Invest in Yourself section you can take different type of Courses, Trainings, Work review, Strategy and career coaching to enhanch your skill.
 
 -> Ask Us button is to ask any type of query with our 24/7 chat service
 
