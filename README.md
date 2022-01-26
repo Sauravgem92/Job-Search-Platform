@@ -10,7 +10,7 @@ This is a sample project created for the purpose of learning and demonstration o
 This is a simple Job-Search-Platform static website. It is a web application that allows you to search and apply for your dream jobs and Internships.
 It also provides differnt courses and career Coaching to enhance your skills.
 
-This project was made using HTML, CSS and Bootstrap and deployed on Azure using Azure services like **App Service, Web App and Application Insights**.
+This project was made using HTML, CSS and Bootstrap using Visual Studio Code and deployed on Azure using Azure services like **App Service, Web App and Application Insights**.
 
 # Functions
 <!-- ![Home Section](./img/Screenshot (50).png)
