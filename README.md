@@ -1,4 +1,4 @@
-# Job-Search-Platform
+# Job-Search-Platform 
 
 Azure Link : https://jobsearchplatform.azurewebsites.net
 
@@ -24,17 +24,20 @@ This project was made using HTML, CSS and Bootstrap and deployed on Azure using 
 
 -> All Jobs button is to see diffent jobs available for diffent sectors.
 
--> Ask Us button is to ask any type of query with our 24/7 chat service
-
 <h3>Description</h3>
 <img src="./img/Screenshot (51).png">
 
 -> In Job description section you can learn about the particular job and about the company whose post it is.
 
 <h3>Programs available</h3>
-<!-- <img src="./img/Screenshot (52).png"> -->
+<img src="./img/Screenshot (53).png">
 
--> In Invest in Yourself section you can take diffent type of courses and training to inhanch your skill.
+-> In Invest in Yourself section you can take different type of Courses, Trainings, Work review, Strategy and career coachings to inhanch your skill.
+
+-> Ask Us button is to ask any type of query with our 24/7 chat service
+
+<h3>Footer</h3>
+<img src="./img/Screenshot (54).png">
 
 -> And in footer you can read about us, our services and connect with us with our Social media.
 
