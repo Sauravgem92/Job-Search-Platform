@@ -1,6 +1,7 @@
 # Job-Search-Platform
 
 Azure Link : https://jobsearchplatform.azurewebsites.net
+
 Github Link : https://sauravgem92.github.io/Job-Search-Platform/
 
 # About the Project
@@ -12,23 +13,32 @@ It also provides differnt courses and career Coaching to enhance your skills.
 This project was made using HTML, CSS and Bootstrap and deployed on Azure using Azure services like **App Service, Web App and Application Insights**.
 
 # Functions
-![Home Section](./img/Screenshot (50).png)
-![Home Section](https://github.com/Sauravgem92/Job-Search-Platform/blob/main/img/Screenshot (50).png)
-Home section - Here you can search for differnt post availabe for jobs and Internships.
+<!-- ![Home Section](./img/Screenshot (50).png)
+![Home Section](https://github.com/Sauravgem92/Job-Search-Platform/blob/main/img/Screenshot (50).png) -->
+<h3>Home</h3>
+<img src="./img/Screenshot (50).png">
 
-By using Navigator bar you can Navigate to different sections of our website. 
+-> Home section - Here you can search for differnt post availabe for jobs and Internships.
 
-All Jobs button is to see diffent jobs available for diffent sectors.
+-> By using Navigator bar you can Navigate to different sections of our website. 
 
-Ask Us button is to ask any type of query with our 24/7 chat service
+-> All Jobs button is to see diffent jobs available for diffent sectors.
 
-In Job description section you can learn about the particular job and about the company whose post it is.
+-> Ask Us button is to ask any type of query with our 24/7 chat service
 
-In Invest in Yourself section you can take diffent type of courses and training to inhanch your skill.
+<h3>Description</h3>
+<img src="./img/Screenshot (51).png">
 
-And in footer you can read about us, our services and connect with us with our Social media.
+-> In Job description section you can learn about the particular job and about the company whose post it is.
+
+<h3>Programs available</h3>
+<!-- <img src="./img/Screenshot (52).png"> -->
+
+-> In Invest in Yourself section you can take diffent type of courses and training to inhanch your skill.
+
+-> And in footer you can read about us, our services and connect with us with our Social media.
 
 # Drawbacks
-Currently it is a static website so different functionality will not work .
+-> Currently it is a static website so different functionality will not work .
 
 
