@@ -1,6 +1,7 @@
 # Job-Search-Platform
 
-Link : https://sauravgem92.github.io/Job-Search-Platform/
+Azure Link : https://jobsearchplatform.azurewebsites.net
+Github Link : https://sauravgem92.github.io/Job-Search-Platform/
 
 # About the Project
 This is a sample project created for the purpose of learning and demonstration of Microsoft Azure skills during the Future Ready Talent Program. And so, this project is not intended for commercial deployment.
@@ -8,9 +9,10 @@ This is a sample project created for the purpose of learning and demonstration o
 This is a simple Job-Search-Platform static website. It is a web application that allows you to search and apply for your dream jobs and Internships.
 It also provides differnt courses and career Coaching to enhance your skills.
 
-This project was made using HTML, CSS and Bootstrap and deployed on Azure App Service.
+This project was made using HTML, CSS and Bootstrap and deployed on Azure using Azure services like **App Service, Web App and Application Insights**.
 
 # Functions
+![alt text](./img/)
 Home section - Here you can search for differnt post availabe for jobs and Internships.
 
 By using Navigator bar you can Navigate to different sections of our website. 
@@ -26,5 +28,6 @@ In Invest in Yourself section you can take diffent type of courses and training 
 And in footer you can read about us, our services and connect with us with our Social media.
 
 # Drawbacks
-Currently it is a static website so different functionality will not work.
+Currently it is a static website so different functionality will not work .
+
 
