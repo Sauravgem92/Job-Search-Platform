@@ -12,7 +12,7 @@ It also provides differnt courses and career Coaching to enhance your skills.
 This project was made using HTML, CSS and Bootstrap and deployed on Azure using Azure services like **App Service, Web App and Application Insights**.
 
 # Functions
-![alt text](./img/)
+![Home Section](./img/Screenshot (50).png)
 Home section - Here you can search for differnt post availabe for jobs and Internships.
 
 By using Navigator bar you can Navigate to different sections of our website. 
