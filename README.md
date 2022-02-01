@@ -1,4 +1,4 @@
-# Job-Search-Platform 
+<!-- # Job-Search-Platform 
 
 Azure Link : https://jobsearchplatform.azurewebsites.net
 
@@ -45,3 +45,4 @@ This project was made using HTML, CSS and Bootstrap using Visual Studio Code and
 -> Currently it is a static website so different functionality will not work .
 
 
+ -->
